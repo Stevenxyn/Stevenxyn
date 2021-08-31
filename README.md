@@ -11,8 +11,8 @@ dedicar mis tiempos libres a mejorar todo lo que me hace falta, me he interesado
 
 ## Comunicate conmigo en
 
->[Mi portafolio]()
->[Linkedln](https://www.linkedin.com/in/contact-stevenxyn/)
+> *[Mi portafolio]()
+> *[Linkedln](https://www.linkedin.com/in/contact-stevenxyn/)
 
 
 
