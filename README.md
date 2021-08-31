@@ -11,7 +11,7 @@ dedicar mis tiempos libres a mejorar todo lo que me hace falta, me he interesado
 
 ## Comunicate conmigo en:
 
-> Linkedln : [Github Pages](www.linkedin.com/in/contact-stevenxyn)
+>[Linkedln](https://www.linkedin.com/in/contact-stevenxyn/)
 
 
 
