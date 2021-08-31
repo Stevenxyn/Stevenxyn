@@ -9,8 +9,8 @@ dedicar mis tiempos libres a mejorar todo lo que me hace falta, me he interesado
 
 > * Html
 > * CSS
-> * Javascript
-> * Bootstrap5
+> * JavaScript
+> * Bootstrap 5
 
 ## Puedes comunicarte conmigo en
 
