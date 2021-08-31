@@ -1,5 +1,5 @@
 ###### 'use strict'
-# console.log("Hola, Se bienvenido a mi perfil de GitHub!:sparkles:");
+# console.log("Hola, Se bienvenid@ a mi perfil de GitHub!:sparkles:");
 
 
 Mi nombre es ***Steven López*** actualmente soy estudiante de Ingeniería de sistemas en la ***Universidad UNIMINUTO en Bogotá Colombia*** ***voy en el tercer semestre***, tengo 21 años. 
