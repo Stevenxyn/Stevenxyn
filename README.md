@@ -9,8 +9,9 @@ dedicar mis tiempos libres a mejorar todo lo que me hace falta, me he interesado
 
 > *Html,* *CSS*, *Javascript* y *Bootstrap5*
 
-## Comunicate conmigo en:
+## Comunicate conmigo en
 
+>[Mi portafolio]()
 >[Linkedln](https://www.linkedin.com/in/contact-stevenxyn/)
 
 
