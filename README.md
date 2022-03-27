@@ -1,8 +1,8 @@
-###### 'use strict'
-# console.log("Hola, Se bienvenid@ a mi perfil de GitHub!:sparkles:");
+###### 
+#Se bienvenid@ a mi perfil de GitHub!
 
 
-Mi nombre es ***Steven López*** actualmente soy estudiante de Ingeniería de sistemas en la ***Universidad UNIMINUTO en Bogotá Colombia*** ***voy en el tercer semestre***, tengo 21 años. 
+Mi nombre es ***Steven López*** actualmente soy estudiante de Ingeniería de sistemas.
 
 Tuve la oportunidad de aprender y aplicar mis conocimientos en una microempresa de *Desarrollo web*, donde era más que todo maquetador me gusto y he empezado a
 dedicar mis tiempos libres a mejorar todo lo que me hace falta, me he interesado últimamente en repasar las tecnologías básicas en el área de *Frontend* :
@@ -10,7 +10,7 @@ dedicar mis tiempos libres a mejorar todo lo que me hace falta, me he interesado
 > * Html
 > * CSS
 > * JavaScript
-> * Bootstrap 5
+> * Bootstrap
 
 ## Puedes comunicarte conmigo en
 
