@@ -1,5 +1,5 @@
 ###### 
-#Se bienvenid@ a mi perfil de GitHub!
+# Bienvenid@ a mi perfil de GitHub!
 
 
 Mi nombre es ***Steven López*** actualmente soy estudiante de Ingeniería de sistemas.
