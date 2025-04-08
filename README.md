@@ -1,7 +1,7 @@
 ###### 
 # Bienvenid@ a mi perfil de GitHub!
 
-## Puedes comunicarte conmigo en
+## My focus is be a Automation engienner 2025 no more
 
 > * [Linkedln](https://www.linkedin.com/in/contact-stevenxyn/)
 
